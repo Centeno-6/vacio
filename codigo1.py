@@ -12,7 +12,7 @@ def interpretar_imc(imc):
     elif imc < 29.9:
         return "Sobrepeso"
     else:
-        return "Obesidad"
+        return "Obesidad maxima"
 
 # Entrada de datos
 peso = float(input("Ingresa tu peso en kilogramos: "))
