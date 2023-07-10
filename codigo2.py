@@ -1,6 +1,6 @@
 def evaluar_diabetes():
     preguntas = [
-        "¿Cuál es tu edad?",
+        "¿Cuál es tu edad compa?",
         "¿Cuál es tu índice de masa corporal (IMC)?",
         "¿Tienes antecedentes familiares de diabetes?",
         "¿Realizas actividad física regularmente? (sí/no)",
